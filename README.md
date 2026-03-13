@@ -18,6 +18,8 @@ Baixe playlists completas do YouTube em **MP3 ou MP4** com interface gráfica.
 
 ## 🖥 Interface
 
+screenshot.png
+
 Downloader simples feito em **Python + yt-dlp + Tkinter**
 
 ✔ Baixa playlists completas  
